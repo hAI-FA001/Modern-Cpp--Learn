@@ -2,3 +2,5 @@
 std
 **/*.txt
 **/*.obj
+.vscode
+bin/
